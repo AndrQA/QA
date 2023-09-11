@@ -11,8 +11,6 @@
 ``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
 
 
-
-
 ## Проекты
 
 <p> Проект 1: тест веб-приложения для учителей от Skyeng</p>
